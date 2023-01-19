@@ -31,7 +31,7 @@ function generatePassword() {
 
   if (isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128) {
   alert("Password must be at least 8 characters but not more than 128");
-  return false;
+  return "";
   }
 
   if (confirm("Do you want your password to have lowercase letters?")); {
