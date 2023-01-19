@@ -2,3 +2,4 @@ for module 3 we were tasked with creating a password generator. i started by def
 
 https://dellmiles24.github.io/Password-Generator-/
 
+![](images/2023-01-18.png)
